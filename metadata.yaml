@@ -1,10 +1,10 @@
 ---
 Category: 'docker'
-Description: 'Template Docker repository for tool_name'  # Description of why the repository exists
-Maintainers: ['YourName@mednet.ucla.edu']  # email address of maintainers
-Contributors: ['Your Name']  # Full names of contributors
+Description: 'Docker repository for SomaticSniper'  # Description of why the repository exists
+Maintainers: ['maotian@mednet.ucla.edu']  # email address of maintainers
+Contributors: ['Mao Tian']  # Full names of contributors
 Languages: ['Dockerfile']  # programming languages used
-Tools: ['tool_name']  # Name of the tool(s) used in the Dockerfile
-Version: ['X.X.X']  # Tool version number
-Purpose of tool: ''  # Description of what this tool does
-References: ''  # is the tool/dependencies published, is there a confluence page
+Tools: ['SomaticSniper']  # Name of the tool(s) used in the Dockerfile
+Version: ['1.0.5.0']  # Tool version number
+Purpose of tool: 'A tool to call somatic single nucleotide variants'  # Description of what this tool does
+References: 'David E. Larson, et al., SomaticSniper: identification of somatic point mutations in whole genome sequencing data, Bioinformatics, Volume 28, Issue 3, 1 February 2012, Pages 311–317.'  # is the tool/dependencies published, is there a confluence page

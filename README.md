@@ -1,7 +1,8 @@
-# docker-tool_name
-Template Repository for the Boutros Lab Dockerfiles based on the bl-base image.
+# docker-SomaticSniper
+Somatic Sniper is a tool to identify somatic point mutations in whole genome sequencing data. It employs a Bayesian comparision of the genotype likelihoods in the tumor and normal samples.
+The UCLA-CDS's SomaticSniper image is located in the Boutros Lab Docker Hub repository:
+xxxxxxxx
 
-The bl-base image is located in the Boutros Lab Docker Hub repo: https://hub.docker.com/repository/docker/blcdsdockerregistry/bl-base
 
 # Documentation
 Docker introduction [here](https://confluence.mednet.ucla.edu/display/BOUTROSLAB/Docker+Introduction)
@@ -14,15 +15,13 @@ Docker image versioning standard [here](https://confluence.mednet.ucla.edu/displ
 # Version
 | Tool | Version |
 |------|---------|
-|tool_name| X.X.X|
-|tool_name_2|X.X.X|
-
+|SomaticSniper| 1.0.5.0|
 
 ---
 
 ## References
 
-1. Tool specific references can be listed here
+1. David E. Larson, et al., SomaticSniper: identification of somatic point mutations in whole genome sequencing data, Bioinformatics, Volume 28, Issue 3, 1 February 2012, Pages 311–317.
 
 ---
 
