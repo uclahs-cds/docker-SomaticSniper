@@ -8,8 +8,8 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ---
 
 ## [Unreleased]
-### Changed
-- Changed something but it is not part of the last release.
+### Added
+- Create the initial commit of the docker-SomaticSniper.
 
 ---
 
