@@ -1,4 +1,4 @@
-# docker-somaticsniper
+# docker-SomaticSniper
 SomaticSniper is a tool to identify somatic point mutations in whole genome sequencing data. It employs a Bayesian comparision of the genotype likelihoods in the tumor and normal samples.
 The [UCLA-CDS's SomaticSniper image](https://hub.docker.com/repository/docker/blcdsdockerregistry/somaticsniper) is located in the [Boutros Lab Docker Hub repository](https://hub.docker.com/orgs/blcdsdockerregistry).
 
