@@ -23,9 +23,9 @@ The main page of SomaticSniper can be found [here](http://gmt.genome.wustl.edu/p
 
 Author: Caden Bugh, Mao Tian
 
-Docker-SomaticSniper is licensed under the GNU General Public License version 2. See the file LICENSE for the terms of the GNU GPL license.
+docker-SomaticSniper is licensed under the GNU General Public License version 2. See the file LICENSE for the terms of the GNU GPL license.
 
-Docker-SomaticSniper is used to detect somatic SNVs in sequencing data.
+docker-SomaticSniper is used to detect somatic SNVs in sequencing data.
 
 Copyright (C) 2021 University of California Los Angeles ("Boutros Lab") All rights reserved.
 
