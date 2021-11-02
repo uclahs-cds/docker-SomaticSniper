@@ -1,4 +1,4 @@
-# docker-somaticsniper
+# docker-SomaticSniper
 SomaticSniper is a tool to identify somatic point mutations in whole genome sequencing data. It employs a Bayesian comparision of the genotype likelihoods in the tumor and normal samples.
 The [UCLA-CDS's SomaticSniper image](https://hub.docker.com/repository/docker/blcdsdockerregistry/somaticsniper) is located in the [Boutros Lab Docker Hub repository](https://hub.docker.com/orgs/blcdsdockerregistry).
 
@@ -23,9 +23,9 @@ The main page of SomaticSniper can be found [here](http://gmt.genome.wustl.edu/p
 
 Author: Caden Bugh, Mao Tian
 
-Docker-SomaticSniper is licensed under the GNU General Public License version 2. See the file LICENSE for the terms of the GNU GPL license.
+docker-SomaticSniper is licensed under the GNU General Public License version 2. See the file LICENSE for the terms of the GNU GPL license.
 
-Docker-SomaticSniper is used to detect somatic SNVs in sequencing data.
+docker-SomaticSniper is used to detect somatic SNVs in sequencing data.
 
 Copyright (C) 2021 University of California Los Angeles ("Boutros Lab") All rights reserved.
 
